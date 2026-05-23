@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=400&color=0:050816,25:00E5FF,55:7C3AED,100:050816&text=OMKAR%20SYSTEM&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DEVOPS%20•%20AUTOMATION%20•%20DEVSECOPS&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=420&color=0:050816,20:00E5FF,50:7C3AED,80:00E676,100:050816&text=OMKAR%20SYSTEM%20v9.0&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CLOUD%20INFRASTRUCTURE%20•%20DEVOPS%20•%20AUTOMATION&descAlignY=62"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&pause=1000&color=00E5FF&center=true&vCenter=true&width=1300&height=100&lines=INITIALIZING+CLOUD+INFRASTRUCTURE+⚡;CONNECTING+KUBERNETES+CLUSTERS;SECURING+CI%2FCD+PIPELINES;LOADING+MONITORING+SYSTEMS;WELCOME+TO+OMKAR+SYSTEM"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&pause=1000&color=00E5FF&center=true&vCenter=true&width=1400&height=120&lines=BOOTING+NEXT-GENERATION+CLOUD+INFRASTRUCTURE+⚡;INITIALIZING+KUBERNETES+CONTROL+PLANE;CONNECTING+AUTOMATION+ENGINES;SECURING+DEVSECOPS+PIPELINES;WELCOME+TO+THE+FUTURE"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E676?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/STATUS-SYSTEM_ONLINE-00E676?style=for-the-badge&labelColor=050816"/>
+
+<img src="https://img.shields.io/badge/CLOUD-AWS%20CONNECTED-00E5FF?style=for-the-badge&labelColor=050816"/>
 
 <img src="https://komarev.com/ghpvc/?username=omkarbhete&style=for-the-badge&color=7C3AED"/>
 
-<img src="https://img.shields.io/github/followers/omkarbhete?style=for-the-badge&color=00E5FF&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/followers/omkarbhete?style=for-the-badge&color=00E5FF&labelColor=050816"/>
 
 </div>
 
@@ -24,7 +26,7 @@
 
 ---
 
-# 🌌 SYSTEM BOOT
+# 🌌 NEURAL SYSTEM BOOT
 
 <div align="center">
 
@@ -45,10 +47,11 @@
 
 ```diff
 + Cloud Infrastructure Connected
-+ Kubernetes Cluster Running
-+ CI/CD Pipelines Active
-+ Security Layers Verified
-+ Automation Systems Operational
++ Kubernetes Control Plane Active
++ CI/CD Pipelines Running
++ Monitoring Systems Enabled
++ DevSecOps Layers Verified
++ Automation Engines Operational
 ```
 
 </div>
@@ -58,13 +61,13 @@
 <table>
 <tr>
 
-<td width="28%">
+<td width="27%">
 
-# 🌌 PROFILE
+# 🌌 SYSTEM PROFILE
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="220"/>
+<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="240"/>
 
 </div>
 
@@ -86,21 +89,28 @@ specialization:
   - Docker
   - Terraform
   - CI/CD
+  - Monitoring
 ```
 
 ---
 
-# ⚡ ABOUT ME
+# ⚡ DIGITAL IDENTITY
 
 ```bash
-DevOps Engineer passionate about
-automation, cloud infrastructure,
-and building scalable systems.
+> USERNAME: omkarbhete
+
+> STATUS: ONLINE
+
+> REGION: INDIA
+
+> MODE: BUILDING FUTURE
+
+> FOCUS: CLOUD AUTOMATION
 ```
 
 ---
 
-# 🌐 CONNECT
+# 🌐 NETWORK ACCESS
 
 <div align="center">
 
@@ -124,59 +134,75 @@ and building scalable systems.
 
 ---
 
-# ⚡ SYSTEM QUOTE
+# ⚡ CORE PRINCIPLES
 
 ```bash
-Automate Everything.
-Secure Everything.
-Scale Limitlessly.
+Automate Everything
+
+Secure Everything
+
+Scale Limitlessly
 ```
 
 ---
 
-# 🌌 CURRENT STATUS
+# 🌌 ACTIVE MISSIONS
 
 ```diff
-+ Learning Advanced Kubernetes
 + Building Cloud-Native Systems
-+ Automating Infrastructure
 + Exploring DevSecOps
++ Automating Infrastructure
++ Learning Advanced Kubernetes
 ```
-
-</td>
-
-<td width="72%">
-
-# ⚡ OMKAR BHETE
-
-### DEVOPS • AUTOMATION • DEVSECOPS ENGINEER
-
-> “I don't just deploy applications.  
-> I engineer scalable cloud ecosystems.”
 
 ---
 
-# 📊 LIVE CLOUD METRICS
+# ⚡ CURRENT STATUS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omkarbhete&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&ring_color=00E5FF"/>
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarbhete&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF"/>
+</div>
+
+</td>
+
+<td width="73%">
+
+# ⚡ OMKAR SYSTEM
+
+### CLOUD • DEVOPS • AUTOMATION • DEVSECOPS
+
+> “I don’t deploy applications.  
+> I engineer intelligent cloud ecosystems.”
+
+---
+
+# 📊 LIVE SYSTEM ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omkarbhete&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7C3AED&ring_color=00E676"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarbhete&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF"/>
 
 </div>
 
 ---
 
+<div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2d8e4f15-5e78-4c39-b4dd-8b7e0d8e7c4e.gif" width="100%">
+
+</div>
 
 ---
 
-# ☁️ TECHNOLOGY ECOSYSTEM
+# ☁️ TECHNOLOGY MATRIX
 
 <div align="center">
 
-### CLOUD & INFRASTRUCTURE
+### CLOUD & CONTAINERIZATION
 
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible" />
 
@@ -202,27 +228,27 @@ Scale Limitlessly.
 
 ---
 
-# 🚀 FEATURED PROJECTS
+# 🚀 FEATURED SYSTEMS
 
-| PROJECT | STATUS | DESCRIPTION |
+| SYSTEM | STATUS | DESCRIPTION |
 |---|---|---|
-| 🤖 AI Snap Attendance | ACTIVE | AI-powered smart attendance system |
+| 🤖 AI Snap Attendance | ONLINE | AI-powered smart attendance ecosystem |
 | 🚗 Smart Parking Platform | DEPLOYED | Cloud-native parking infrastructure |
 | 🔐 DevSecOps Pipeline | SECURED | Enterprise-grade CI/CD workflows |
-| ☁️ Infrastructure Automation | RUNNING | Terraform-powered AWS provisioning |
-| 🌌 Parikrama 2K26 | ONLINE | Futuristic national-level event platform |
+| ☁️ Infrastructure Automation | ACTIVE | Terraform-powered AWS provisioning |
+| 🌌 Parikrama 2K26 | LIVE | Futuristic national-level platform |
 
 ---
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="480"/>
 
 </div>
 
 ---
 
-# 🔥 DEVSECOPS ARCHITECTURE
+# 🔥 CLOUD INFRASTRUCTURE FLOW
 
 ```mermaid
 flowchart LR
@@ -239,7 +265,7 @@ E --> F[AWS ECR]
 
 F --> G[Kubernetes Deployment]
 
-G --> H[Monitoring & Alerts]
+G --> H[Monitoring Systems]
 
 H --> I[Production Infrastructure]
 ```
@@ -263,7 +289,9 @@ Deployment pipelines active...
 
 Cloud systems operational...
 
-Welcome to the future ⚡
+AI monitoring online...
+
+SYSTEM STATUS: FULLY OPERATIONAL ⚡
 ```
 
 ---
@@ -277,6 +305,7 @@ Welcome to the future ⚡
 + Monitoring Systems: ENABLED
 + Security Layers: VERIFIED
 + Automation Engines: RUNNING
++ Cloud Scaling: OPTIMIZED
 ```
 
 ---
@@ -295,15 +324,27 @@ while(system_running):
     optimize()
 
     scale()
+
+    evolve()
 ```
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+# 🐍 CONTRIBUTION MATRIX
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌌 SYSTEM ACTIVITY
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=omkarbhete&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -316,6 +357,6 @@ while(system_running):
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,40:00E5FF,70:7C3AED,100:050816&section=footer&text=BUILDING%20THE%20FUTURE&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,20:00E5FF,50:7C3AED,80:00E676,100:050816&section=footer&text=BUILDING%20THE%20FUTURE&fontSize=48&fontColor=ffffff"/>
 
 </div>
