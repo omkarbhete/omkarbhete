@@ -1,80 +1,85 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7C3AED&height=260&section=header&text=OMKAR%20BHETE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,50:00E5FF,100:7C3AED&text=OMKAR%20BHETE&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20•%20Automation%20•%20DevSecOps%20Engineer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=DevOps+Engineer;Automation+%26+DevSecOps+Engineer;Cloud+Infrastructure+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+CI%2FCD+%7C+Monitoring;Building+Secure+Scalable+Cloud+Systems+⚡"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&pause=1000&color=00E5FF&center=true&vCenter=true&width=1100&height=80&lines=Building+Scalable+Cloud+Systems+⚡;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;DevSecOps+%7C+Automation+%7C+CI%2FCD;Cloud-Native+Infrastructure+Engineer;Secure+•+Automate+•+Scale"/>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=omkarbhete&style=for-the-badge&color=blueviolet"/>
 
+<img src="https://img.shields.io/github/followers/omkarbhete?style=for-the-badge&color=00E5FF&labelColor=0D1117"/>
+
+<img src="https://img.shields.io/github/stars/omkarbhete?style=for-the-badge&color=7C3AED&labelColor=0D1117"/>
+
 </div>
 
 ---
 
-# 🌌 About Me
+# 🌌 SYSTEM OVERVIEW
+
+<div align="center">
 
 ```yaml
 name: Omkar Bhete
-role: DevOps • Automation • DevSecOps Engineer
+
+role:
+  - DevOps Engineer
+  - Automation Engineer
+  - DevSecOps Enthusiast
 
 specialization:
   - Cloud Infrastructure
   - Infrastructure Automation
-  - Kubernetes & Docker
-  - CI/CD Pipelines
-  - Monitoring & Logging
-  - DevSecOps Security
-
-currently_learning:
-  - Advanced Kubernetes
-  - Cloud-Native Architectures
+  - Kubernetes Orchestration
+  - CI/CD Engineering
+  - Monitoring & Observability
   - Security Automation
-  - Infrastructure Scaling
 
-motto:
-  "Automate • Secure • Scale ⚡"
+philosophy:
+  "Automate everything. Secure everything. Scale endlessly."
+
+status:
+  system: ONLINE
+  pipelines: ACTIVE
+  kubernetes_cluster: HEALTHY
 ```
-
----
-
-# ⚡ Tech Stack & Tools
-
-<div align="center">
-
-## ☁️ Cloud Platforms
-
-<img src="https://skillicons.dev/icons?i=aws,gcp" />
-
-<br/><br/>
-
-## 🚀 DevOps & Automation
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions" />
-
-<br/><br/>
-
-## 🔐 DevSecOps & Monitoring
-
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,prometheus,grafana" />
-
-<br/><br/>
-
-## 💻 Development & Databases
-
-<img src="https://skillicons.dev/icons?i=python,react,nodejs,express,mongodb,mysql,ts,js,vite" />
-
-<br/><br/>
-
-## 🛠️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,nginx,ubuntu" />
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# ⚡ TECH UNIVERSE
+
+<div align="center">
+
+## ☁️ CLOUD & INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,ansible" />
+
+<br/><br/>
+
+## 🚀 DEVOPS & AUTOMATION
+
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github,bash,linux" />
+
+<br/><br/>
+
+## 🔐 DEVSECOPS & MONITORING
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,nginx,ubuntu" />
+
+<br/><br/>
+
+## 💻 DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=python,react,nodejs,express,mongodb,mysql,ts,js,vite" />
+
+</div>
+
+---
+
+# 🚀 ENGINEERING JOURNEY
 
 <div align="center">
 
@@ -82,11 +87,11 @@ motto:
 <tr>
 <td width="50%">
 
-## 🤖 AI Snap Attendance System
+## 🤖 AI Snap Attendance
 
-AI-powered smart attendance system using face recognition and voice verification with real-time analytics.
+AI-powered smart attendance system using facial recognition, voice verification, and real-time analytics.
 
-### ⚡ Tech Used
+### ⚡ Stack
 Python • OpenCV • AI • Flask • MongoDB
 
 </td>
@@ -95,9 +100,9 @@ Python • OpenCV • AI • Flask • MongoDB
 
 ## 🚗 Smart Parking Platform
 
-Cloud-native parking management platform with live tracking, booking, and AWS deployment.
+Cloud-native smart parking ecosystem with AWS deployment and Kubernetes scalability.
 
-### ⚡ Tech Used
+### ⚡ Stack
 React • Node.js • Docker • Kubernetes • AWS
 
 </td>
@@ -106,12 +111,12 @@ React • Node.js • Docker • Kubernetes • AWS
 <tr>
 <td width="50%">
 
-## 🔐 DevSecOps CI/CD Pipeline
+## 🔐 DevSecOps Pipeline
 
-Secure CI/CD pipeline with automated vulnerability scanning and cloud deployments.
+Enterprise-grade CI/CD pipeline with automated security scanning and deployment workflows.
 
-### ⚡ Tech Used
-GitHub Actions • Jenkins • SonarQube • Trivy • Docker
+### ⚡ Stack
+GitHub Actions • Jenkins • Trivy • SonarQube • Docker
 
 </td>
 
@@ -119,10 +124,10 @@ GitHub Actions • Jenkins • SonarQube • Trivy • Docker
 
 ## ☁️ Infrastructure Automation
 
-Terraform-based infrastructure provisioning with reusable modules and AWS architecture.
+Terraform-powered AWS infrastructure provisioning with reusable modules and secure networking.
 
-### ⚡ Tech Used
-Terraform • AWS • VPC • EC2 • IAM
+### ⚡ Stack
+Terraform • AWS • IAM • EC2 • VPC
 
 </td>
 </tr>
@@ -132,20 +137,20 @@ Terraform • AWS • VPC • EC2 • IAM
 
 ## 🌌 Parikrama 2K26
 
-Futuristic national-level event management platform with immersive UI/UX.
+Immersive futuristic event platform engineered for national-level technical events.
 
-### ⚡ Tech Used
-React • Express • MongoDB • Cloudinary • Docker
+### ⚡ Stack
+React • Express • MongoDB • Docker • Cloudinary
 
 </td>
 
 <td width="50%">
 
-## 🎓 Admission Management System
+## 🎓 Admission Management
 
-Modern digital admission workflow system with real-time status tracking.
+Digital admission workflow system with automation and real-time student tracking.
 
-### ⚡ Tech Used
+### ⚡ Stack
 React • Node.js • MongoDB • Cloudinary
 
 </td>
@@ -156,56 +161,37 @@ React • Node.js • MongoDB • Cloudinary
 
 ---
 
-# 🔥 DevSecOps Workflow
+# 🔥 DEVSECOPS PIPELINE ARCHITECTURE
 
 <div align="center">
 
 ```mermaid
 flowchart LR
-    A[Developer Push] --> B[GitHub Actions]
-    B --> C[Build & Test]
-    C --> D[SonarQube Scan]
-    D --> E[Trivy Security Scan]
-    E --> F[Docker Build]
-    F --> G[AWS ECR]
-    G --> H[Kubernetes Deploy]
-    H --> I[Monitoring & Alerts]
+
+A[Developer Push] --> B[GitHub Actions]
+
+B --> C[Build & Unit Tests]
+
+C --> D[SonarQube Analysis]
+
+D --> E[Trivy Vulnerability Scan]
+
+E --> F[Docker Build]
+
+F --> G[AWS ECR]
+
+G --> H[Kubernetes Deployment]
+
+H --> I[Monitoring & Alerts]
+
+I --> J[Production Environment]
 ```
 
 </div>
 
 ---
 
-# ⚙️ Infrastructure Philosophy
-
-<div align="center">
-
-```python
-while(system_running):
-    automate()
-    secure()
-    monitor()
-    optimize()
-    scale()
-```
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omkarbhete&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarbhete&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# 🔥 Contribution Activity
+# 🌌 SYSTEM ACTIVITY
 
 <div align="center">
 
@@ -215,24 +201,58 @@ while(system_running):
 
 ---
 
-# ⚙️ System Status
+# 📊 SYSTEM ANALYTICS
+
+<div align="center">
+
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=omkarbhete&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarbhete&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# ⚡ REAL-TIME SYSTEM STATUS
 
 <div align="center">
 
 ```diff
-+ AWS Infrastructure Operational
-+ Kubernetes Cluster Running
-+ CI/CD Pipelines Active
-+ Monitoring & Logging Enabled
-+ DevSecOps Security Integrated
-+ Infrastructure Automation Healthy
++ AWS Infrastructure: OPERATIONAL
++ Kubernetes Cluster: RUNNING
++ DevSecOps Pipelines: ACTIVE
++ Monitoring & Logging: ENABLED
++ Automation Workflows: HEALTHY
++ Security Layers: VERIFIED
 ```
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 🧠 AUTOMATION PHILOSOPHY
+
+<div align="center">
+
+```python
+while(system_running):
+
+    automate()
+
+    secure()
+
+    monitor()
+
+    optimize()
+
+    scale()
+```
+
+</div>
+
+---
+
+# 🌐 CONNECT WITH ME
 
 <div align="center">
 
@@ -252,21 +272,7 @@ while(system_running):
 
 ---
 
-# 🧠 Engineering Mindset
-
-<div align="center">
-
-```bash
-> automate infrastructure
-> secure deployments
-> optimize systems
-> scale applications
-> never stop learning
-```
-
-</div>
-
----
+# 🏆 ACHIEVEMENTS
 
 <div align="center">
 
@@ -276,8 +282,30 @@ while(system_running):
 
 ---
 
+# 🌌 TERMINAL
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00E5FF&height=160&section=footer"/>
+```bash
+> initializing cloud infrastructure...
+
+> loading kubernetes clusters...
+
+> securing CI/CD pipelines...
+
+> enabling monitoring systems...
+
+> scaling applications...
+
+SYSTEM STATUS: ONLINE ⚡
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7C3AED,50:00E5FF,100:050816&section=footer"/>
 
 </div>
