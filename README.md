@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7C3AED&height=220&section=header&text=OMKAR%20BHETE&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7C3AED&height=260&section=header&text=OMKAR%20BHETE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=950&lines=DevOps+Engineer;Automation+Engineer;DevSecOps+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Terraform+%7C+Security;Building+Secure+Scalable+Systems+⚡"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=DevOps+Engineer;Automation+%26+DevSecOps+Engineer;Cloud+Infrastructure+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+CI%2FCD+%7C+Monitoring;Building+Secure+Scalable+Cloud+Systems+⚡"/>
 
 <br/>
 
@@ -18,18 +18,19 @@
 name: Omkar Bhete
 role: DevOps • Automation • DevSecOps Engineer
 
-focus:
-  - Infrastructure Automation
-  - CI/CD Pipelines
-  - DevSecOps Security
-  - Kubernetes & Docker
+specialization:
   - Cloud Infrastructure
+  - Infrastructure Automation
+  - Kubernetes & Docker
+  - CI/CD Pipelines
+  - Monitoring & Logging
+  - DevSecOps Security
 
 currently_learning:
   - Advanced Kubernetes
+  - Cloud-Native Architectures
   - Security Automation
   - Infrastructure Scaling
-  - Cloud-Native Architectures
 
 motto:
   "Automate • Secure • Scale ⚡"
@@ -37,47 +38,125 @@ motto:
 
 ---
 
-# ⚡ Tech Universe
+# ⚡ Tech Stack & Tools
 
 <div align="center">
 
-## ☁️ Cloud & DevOps
+## ☁️ Cloud Platforms
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,git,githubactions" />
-
-<br/><br/>
-
-## 🔐 DevSecOps & Automation
-
-<img src="https://skillicons.dev/icons?i=bash,githubactions,linux,git" />
+<img src="https://skillicons.dev/icons?i=aws,gcp" />
 
 <br/><br/>
 
-## 💻 Development
+## 🚀 DevOps & Automation
 
-<img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb,ts,js,vite" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions" />
+
+<br/><br/>
+
+## 🔐 DevSecOps & Monitoring
+
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,prometheus,grafana" />
+
+<br/><br/>
+
+## 💻 Development & Databases
+
+<img src="https://skillicons.dev/icons?i=python,react,nodejs,express,mongodb,mysql,ts,js,vite" />
+
+<br/><br/>
+
+## 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,nginx,ubuntu" />
 
 </div>
 
 ---
 
-# 🚀 Engineering Journey
+# 🚀 Featured Projects
 
 <div align="center">
 
-| ⚡ System | 🚀 Description |
-|---|---|
-| 🔐 DevSecOps Pipeline | Secure CI/CD workflow with Trivy & SonarQube integration |
-| ☁️ Infrastructure Automation | Terraform-based AWS infrastructure provisioning |
-| 🚗 Smart Parking Platform | Cloud-native scalable parking management system |
-| 🤖 AI Snap Attendance | AI-powered smart attendance platform |
-| 🌌 Parikrama 2K26 | Futuristic national-level event platform |
+<table>
+<tr>
+<td width="50%">
+
+## 🤖 AI Snap Attendance System
+
+AI-powered smart attendance system using face recognition and voice verification with real-time analytics.
+
+### ⚡ Tech Used
+Python • OpenCV • AI • Flask • MongoDB
+
+</td>
+
+<td width="50%">
+
+## 🚗 Smart Parking Platform
+
+Cloud-native parking management platform with live tracking, booking, and AWS deployment.
+
+### ⚡ Tech Used
+React • Node.js • Docker • Kubernetes • AWS
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🔐 DevSecOps CI/CD Pipeline
+
+Secure CI/CD pipeline with automated vulnerability scanning and cloud deployments.
+
+### ⚡ Tech Used
+GitHub Actions • Jenkins • SonarQube • Trivy • Docker
+
+</td>
+
+<td width="50%">
+
+## ☁️ Infrastructure Automation
+
+Terraform-based infrastructure provisioning with reusable modules and AWS architecture.
+
+### ⚡ Tech Used
+Terraform • AWS • VPC • EC2 • IAM
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🌌 Parikrama 2K26
+
+Futuristic national-level event management platform with immersive UI/UX.
+
+### ⚡ Tech Used
+React • Express • MongoDB • Cloudinary • Docker
+
+</td>
+
+<td width="50%">
+
+## 🎓 Admission Management System
+
+Modern digital admission workflow system with real-time status tracking.
+
+### ⚡ Tech Used
+React • Node.js • MongoDB • Cloudinary
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🔥 Automation + DevSecOps Pipeline
+# 🔥 DevSecOps Workflow
 
 <div align="center">
 
@@ -85,7 +164,7 @@ motto:
 flowchart LR
     A[Developer Push] --> B[GitHub Actions]
     B --> C[Build & Test]
-    C --> D[SonarQube Analysis]
+    C --> D[SonarQube Scan]
     D --> E[Trivy Security Scan]
     E --> F[Docker Build]
     F --> G[AWS ECR]
@@ -97,7 +176,7 @@ flowchart LR
 
 ---
 
-# ⚙️ Automation Philosophy
+# ⚙️ Infrastructure Philosophy
 
 <div align="center">
 
@@ -141,11 +220,12 @@ while(system_running):
 <div align="center">
 
 ```diff
-+ Infrastructure Automation Active
-+ DevSecOps Pipelines Running
-+ Kubernetes Cluster Operational
++ AWS Infrastructure Operational
++ Kubernetes Cluster Running
++ CI/CD Pipelines Active
 + Monitoring & Logging Enabled
-+ CI/CD Systems Healthy
++ DevSecOps Security Integrated
++ Infrastructure Automation Healthy
 ```
 
 </div>
@@ -167,6 +247,22 @@ while(system_running):
 <a href="mailto:YOUR_EMAIL@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+# 🧠 Engineering Mindset
+
+<div align="center">
+
+```bash
+> automate infrastructure
+> secure deployments
+> optimize systems
+> scale applications
+> never stop learning
+```
 
 </div>
 
