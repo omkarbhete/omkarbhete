@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:050816,30:00E5FF,70:7C3AED,100:050816&text=OMKAR%20SYSTEM&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DEVOPS%20•%20AUTOMATION%20•%20DEVSECOPS&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=360&color=0:050816,30:00E5FF,70:7C3AED,100:050816&text=OMKAR%20SYSTEM%20v2.6.0&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DEVOPS%20•%20AUTOMATION%20•%20DEVSECOPS%20ENGINEER&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&pause=1000&color=00E5FF&center=true&vCenter=true&width=1200&height=90&lines=Initializing+Cloud+Infrastructure+⚡;Kubernetes+Cluster+Connected;CI%2FCD+Pipelines+Online;Security+Layers+Verified;Welcome+to+OMKAR+SYSTEM"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&pause=1000&color=00E5FF&center=true&vCenter=true&width=1200&height=90&lines=Initializing+Cloud+Infrastructure+⚡;Kubernetes+Clusters+Connected;CI%2FCD+Pipelines+Online;Security+Layers+Verified;Welcome+to+OMKAR+SYSTEM"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E676?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00E676?style=for-the-badge&labelColor=0D1117"/>
 
 <img src="https://komarev.com/ghpvc/?username=omkarbhete&style=for-the-badge&color=7C3AED"/>
 
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="220"/>
+<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="220" style="border-radius:50%;" />
 
 </div>
 
@@ -37,37 +37,49 @@ user: omkarbhete
 role:
   - DevOps Engineer
   - Automation Engineer
-  - DevSecOps Enthusiast
+  - DevSecOps Practitioner
 
 status: ONLINE
 
-experience:
-  - AWS Infrastructure
+specialization:
+  - Cloud Infrastructure
   - Kubernetes
   - Docker
-  - CI/CD
   - Terraform
+  - CI/CD
 ```
 
 ---
 
-# ⚡ SYSTEM IDENTITY
+# ⚡ ABOUT ME
+
+```bash
+DevOps Engineer passionate about
+automation, cloud infrastructure,
+and building scalable systems.
+```
+
+---
+
+# 🌐 SYSTEM IDENTITY
 
 ```bash
 > USER: omkarbhete
 
 > ROLE: DevOps Engineer
 
+> EXPERIENCE: 3+ YEARS
+
 > STATUS: ONLINE
 
 > LOCATION: INDIA
 
-> MODE: BUILDING FUTURE
+> FREELANCE: AVAILABLE
 ```
 
 ---
 
-# 🌐 CONNECT
+# 🔗 CONNECT
 
 <div align="center">
 
@@ -108,7 +120,19 @@ Scale Limitlessly.
 ### DEVOPS • AUTOMATION • DEVSECOPS ENGINEER
 
 > “I don't just deploy applications.  
-> I build scalable systems that never sleep.”
+> I build systems that never sleep.”
+
+---
+
+# 📊 LIVE METRICS
+
+<div align="center">
+
+| REPOSITORIES | TOTAL STARS | FOLLOWERS | TOTAL COMMITS |
+|---|---|---|---|
+| 19 | 147 | 31 | 3.82K |
+
+</div>
 
 ---
 
@@ -134,7 +158,7 @@ Scale Limitlessly.
 
 <br/><br/>
 
-### DEVELOPMENT
+### DEVELOPMENT STACK
 
 <img src="https://skillicons.dev/icons?i=python,react,nodejs,express,mongodb,mysql,ts,js,vite" />
 
@@ -147,36 +171,38 @@ Scale Limitlessly.
 | PROJECT | DESCRIPTION |
 |---|---|
 | 🤖 AI Snap Attendance | AI-powered smart attendance system using face recognition |
-| 🚗 Smart Parking Platform | Cloud-native parking infrastructure with AWS & Kubernetes |
-| 🔐 DevSecOps Pipeline | Enterprise-grade CI/CD with vulnerability scanning |
+| 🚗 Smart Parking Platform | Cloud-native parking infrastructure with AWS deployment |
+| 🔐 DevSecOps Pipeline | Enterprise-grade CI/CD workflows with security scanning |
 | ☁️ Infrastructure Automation | Terraform-powered AWS provisioning |
 | 🌌 Parikrama 2K26 | Futuristic national-level event platform |
 
 ---
 
-# 🔥 DEVSECOPS PIPELINE
+# 🔥 DEVSECOPS PIPELINE ARCHITECTURE
 
 ```mermaid
 flowchart LR
 
-A[Developer Push] --> B[GitHub Actions]
+A[Code Push] --> B[GitHub]
 
-B --> C[Build & Test]
+B --> C[CI/CD Pipeline]
 
-C --> D[Security Analysis]
+C --> D[Build & Test]
 
-D --> E[Docker Build]
+D --> E[Security Scan]
 
-E --> F[AWS ECR]
+E --> F[Docker Build]
 
-F --> G[Kubernetes Deployment]
+F --> G[AWS ECR]
 
-G --> H[Monitoring]
+G --> H[Kubernetes Deploy]
+
+H --> I[Monitoring & Alerts]
 ```
 
 ---
 
-# 📊 LIVE ANALYTICS
+# 📈 LIVE ANALYTICS
 
 <div align="center">
 
@@ -191,12 +217,12 @@ G --> H[Monitoring]
 # ⚡ SYSTEM HEALTH
 
 ```diff
-+ AWS Infrastructure: ACTIVE
++ AWS Infrastructure: OPERATIONAL
 + Kubernetes Cluster: HEALTHY
-+ CI/CD Pipelines: RUNNING
++ CI/CD Pipelines: ACTIVE
 + Monitoring Systems: ENABLED
-+ Automation Services: ONLINE
 + Security Layers: VERIFIED
++ Automation Workflows: RUNNING
 ```
 
 ---
@@ -204,19 +230,38 @@ G --> H[Monitoring]
 # 🌌 SYSTEM TERMINAL
 
 ```bash
-$ ssh omkar@cloud-system
+$ kubectl get pods
 
-Access granted...
+NAME                     READY   STATUS    RESTARTS   AGE
 
-Loading infrastructure...
+devsecops-pipeline       1/1     Running   0          2d
 
-Connecting Kubernetes clusters...
+monitoring-stack         1/1     Running   0          5d
 
-Initializing monitoring systems...
+automation-engine        1/1     Running   0          10d
 
-Deployment pipelines active...
+web-application          1/1     Running   0          12d
 
-SYSTEM STATUS: OPERATIONAL ⚡
+
+$ system status
+
+[✓] ALL SYSTEMS OPERATIONAL
+```
+
+---
+
+# 📊 CURRENT ACTIVITY
+
+```bash
+> Deployed new microservice to production
+
+> Optimized CI/CD pipeline execution
+
+> Automated vulnerability scanning
+
+> Scaling Kubernetes cluster nodes
+
+> Monitoring dashboards online
 ```
 
 </td>
@@ -229,6 +274,10 @@ SYSTEM STATUS: OPERATIONAL ⚡
 <div align="center">
 
 # ⚡ BUILDING THE FUTURE, AUTOMATING THE PRESENT ⚡
+
+<img src="https://github-profile-trophy.vercel.app/?username=omkarbhete&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:7C3AED,100:00E5FF&section=footer"/>
 
