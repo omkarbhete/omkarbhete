@@ -1,18 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=420&color=0:050816,20:00E5FF,50:7C3AED,80:00E676,100:050816&text=OMKAR%20SYSTEM%20v9.0&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CLOUD%20INFRASTRUCTURE%20•%20DEVOPS%20•%20AUTOMATION&descAlignY=62"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&pause=1000&color=00E5FF&center=true&vCenter=true&width=1400&height=120&lines=BOOTING+NEXT-GENERATION+CLOUD+INFRASTRUCTURE+⚡;INITIALIZING+KUBERNETES+CONTROL+PLANE;CONNECTING+AUTOMATION+ENGINES;SECURING+DEVSECOPS+PIPELINES;WELCOME+TO+THE+FUTURE"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=500&color=0:050816,15:00E5FF,45:7C3AED,75:00E676,100:050816&text=OMKAR%20BHETE&fontSize=82&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=DEVOPS%20•%20CLOUD%20•%20AUTOMATION%20•%20DEVSECOPS&descAlignY=63"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-SYSTEM_ONLINE-00E676?style=for-the-badge&labelColor=050816"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=42&pause=900&color=00E5FF&center=true&vCenter=true&width=1500&height=120&lines=BUILDING+SCALABLE+CLOUD+SYSTEMS+⚡;AWS+%7C+DOCKER+%7C+KUBERNETES;AUTOMATION+%7C+DEVSECOPS+%7C+CI%2FCD;SECURE+•+AUTOMATE+•+SCALE;WELCOME+TO+THE+FUTURE"/>
 
-<img src="https://img.shields.io/badge/CLOUD-AWS%20CONNECTED-00E5FF?style=for-the-badge&labelColor=050816"/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=omkarbhete&style=for-the-badge&color=7C3AED"/>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%"/>
 
-<img src="https://img.shields.io/github/followers/omkarbhete?style=for-the-badge&color=00E5FF&labelColor=050816"/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CLOUD-INFRASTRUCTURE-00E5FF?style=for-the-badge&labelColor=050816"/>
+
+<img src="https://img.shields.io/badge/KUBERNETES-ACTIVE-7C3AED?style=for-the-badge&labelColor=050816"/>
+
+<img src="https://img.shields.io/badge/DEVSECOPS-ONLINE-00E676?style=for-the-badge&labelColor=050816"/>
+
+<img src="https://komarev.com/ghpvc/?username=omkarbhete&style=for-the-badge&color=00E5FF"/>
 
 </div>
 
@@ -20,7 +26,22 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%"/>
+```diff
++ Cloud Infrastructure Connected
++ Kubernetes Cluster Running
++ CI/CD Pipelines Operational
++ Monitoring Systems Enabled
++ DevSecOps Security Verified
++ Automation Engines Active
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d8e4f15-5e78-4c39-b4dd-8b7e0d8e7c4e.gif" width="100%"/>
 
 </div>
 
