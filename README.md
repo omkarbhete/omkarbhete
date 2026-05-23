@@ -1,22 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,50:00E5FF,100:7C3AED&text=OMKAR%20BHETE&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20•%20Automation%20•%20DevSecOps%20Engineer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:050816,30:00E5FF,70:7C3AED,100:050816&text=OMKAR%20BHETE&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20•%20Automation%20•%20DevSecOps%20Engineer&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&pause=1000&color=00E5FF&center=true&vCenter=true&width=1100&height=80&lines=Building+Scalable+Cloud+Systems+⚡;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;DevSecOps+%7C+Automation+%7C+CI%2FCD;Cloud-Native+Infrastructure+Engineer;Secure+•+Automate+•+Scale"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&pause=1000&color=00E5FF&center=true&vCenter=true&width=1100&height=80&lines=Building+Cloud-Native+Systems+⚡;DevOps+%7C+Automation+%7C+DevSecOps;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+CI%2FCD+%7C+Monitoring;Secure+•+Automate+•+Scale"/>
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=omkarbhete&style=for-the-badge&color=blueviolet"/>
 
 <img src="https://img.shields.io/github/followers/omkarbhete?style=for-the-badge&color=00E5FF&labelColor=0D1117"/>
 
 <img src="https://img.shields.io/github/stars/omkarbhete?style=for-the-badge&color=7C3AED&labelColor=0D1117"/>
 
+<img src="https://komarev.com/ghpvc/?username=omkarbhete&style=for-the-badge&color=blueviolet"/>
+
 </div>
 
 ---
 
-# 🌌 SYSTEM OVERVIEW
+# 🌌 SYSTEM INITIALIZATION
+
+<div align="center">
+
+```bash
+> booting OMKAR_SYSTEM...
+
+> loading cloud infrastructure...
+
+> connecting kubernetes clusters...
+
+> initializing CI/CD pipelines...
+
+> enabling DevSecOps layers...
+
+SYSTEM STATUS: ONLINE ⚡
+```
+
+</div>
+
+---
+
+# 🧠 CORE PROFILE
 
 <div align="center">
 
@@ -30,48 +52,47 @@ role:
 
 specialization:
   - Cloud Infrastructure
-  - Infrastructure Automation
   - Kubernetes Orchestration
-  - CI/CD Engineering
+  - Infrastructure Automation
+  - Secure CI/CD Pipelines
   - Monitoring & Observability
-  - Security Automation
 
-philosophy:
-  "Automate everything. Secure everything. Scale endlessly."
+mission:
+  "Designing scalable, secure, and automated systems."
 
 status:
-  system: ONLINE
-  pipelines: ACTIVE
-  kubernetes_cluster: HEALTHY
+  infrastructure: HEALTHY
+  automation: ACTIVE
+  pipelines: RUNNING
 ```
 
 </div>
 
 ---
 
-# ⚡ TECH UNIVERSE
+# ⚡ TECH ECOSYSTEM
 
 <div align="center">
 
-## ☁️ CLOUD & INFRASTRUCTURE
+## ☁️ CLOUD & CONTAINERIZATION
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,ansible" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible" />
 
 <br/><br/>
 
 ## 🚀 DEVOPS & AUTOMATION
 
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github,bash,linux" />
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github,linux,bash" />
 
 <br/><br/>
 
 ## 🔐 DEVSECOPS & MONITORING
 
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,nginx,ubuntu" />
+<img src="https://skillicons.dev/icons?i=nginx,ubuntu,prometheus,grafana" />
 
 <br/><br/>
 
-## 💻 DEVELOPMENT
+## 💻 DEVELOPMENT STACK
 
 <img src="https://skillicons.dev/icons?i=python,react,nodejs,express,mongodb,mysql,ts,js,vite" />
 
@@ -87,20 +108,20 @@ status:
 <tr>
 <td width="50%">
 
-## 🤖 AI Snap Attendance
+# 🤖 AI Snap Attendance
 
-AI-powered smart attendance system using facial recognition, voice verification, and real-time analytics.
+AI-powered smart attendance ecosystem using face recognition and voice verification.
 
 ### ⚡ Stack
-Python • OpenCV • AI • Flask • MongoDB
+Python • OpenCV • Flask • MongoDB
 
 </td>
 
 <td width="50%">
 
-## 🚗 Smart Parking Platform
+# 🚗 Smart Parking Platform
 
-Cloud-native smart parking ecosystem with AWS deployment and Kubernetes scalability.
+Cloud-native parking infrastructure with AWS deployment and Kubernetes scalability.
 
 ### ⚡ Stack
 React • Node.js • Docker • Kubernetes • AWS
@@ -111,9 +132,9 @@ React • Node.js • Docker • Kubernetes • AWS
 <tr>
 <td width="50%">
 
-## 🔐 DevSecOps Pipeline
+# 🔐 DevSecOps Pipeline
 
-Enterprise-grade CI/CD pipeline with automated security scanning and deployment workflows.
+Enterprise-grade CI/CD pipeline with automated security scanning and deployments.
 
 ### ⚡ Stack
 GitHub Actions • Jenkins • Trivy • SonarQube • Docker
@@ -122,9 +143,9 @@ GitHub Actions • Jenkins • Trivy • SonarQube • Docker
 
 <td width="50%">
 
-## ☁️ Infrastructure Automation
+# ☁️ Infrastructure Automation
 
-Terraform-powered AWS infrastructure provisioning with reusable modules and secure networking.
+Terraform-powered AWS infrastructure provisioning with reusable IaC modules.
 
 ### ⚡ Stack
 Terraform • AWS • IAM • EC2 • VPC
@@ -135,20 +156,20 @@ Terraform • AWS • IAM • EC2 • VPC
 <tr>
 <td width="50%">
 
-## 🌌 Parikrama 2K26
+# 🌌 Parikrama 2K26
 
-Immersive futuristic event platform engineered for national-level technical events.
+Immersive futuristic national-level event management platform.
 
 ### ⚡ Stack
-React • Express • MongoDB • Docker • Cloudinary
+React • Express • MongoDB • Docker
 
 </td>
 
 <td width="50%">
 
-## 🎓 Admission Management
+# 🎓 Admission Management
 
-Digital admission workflow system with automation and real-time student tracking.
+Real-time digital admission workflow system with automation and analytics.
 
 ### ⚡ Stack
 React • Node.js • MongoDB • Cloudinary
@@ -161,7 +182,7 @@ React • Node.js • MongoDB • Cloudinary
 
 ---
 
-# 🔥 DEVSECOPS PIPELINE ARCHITECTURE
+# 🔥 DEVSECOPS ARCHITECTURE
 
 <div align="center">
 
@@ -170,13 +191,13 @@ flowchart LR
 
 A[Developer Push] --> B[GitHub Actions]
 
-B --> C[Build & Unit Tests]
+B --> C[Build & Test]
 
-C --> D[SonarQube Analysis]
+C --> D[SonarQube Security Analysis]
 
 D --> E[Trivy Vulnerability Scan]
 
-E --> F[Docker Build]
+E --> F[Docker Image Build]
 
 F --> G[AWS ECR]
 
@@ -184,53 +205,43 @@ G --> H[Kubernetes Deployment]
 
 H --> I[Monitoring & Alerts]
 
-I --> J[Production Environment]
+I --> J[Production Infrastructure]
 ```
 
 </div>
 
 ---
 
-# 🌌 SYSTEM ACTIVITY
+# 🌌 REAL-TIME ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarbhete&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=omkarbhete&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED"/>
+
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarbhete&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF"/>
 
 </div>
 
 ---
 
-# 📊 SYSTEM ANALYTICS
-
-<div align="center">
-
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=omkarbhete&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarbhete&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# ⚡ REAL-TIME SYSTEM STATUS
+# ⚙️ SYSTEM HEALTH
 
 <div align="center">
 
 ```diff
 + AWS Infrastructure: OPERATIONAL
-+ Kubernetes Cluster: RUNNING
-+ DevSecOps Pipelines: ACTIVE
-+ Monitoring & Logging: ENABLED
-+ Automation Workflows: HEALTHY
-+ Security Layers: VERIFIED
++ Kubernetes Cluster: ACTIVE
++ CI/CD Pipelines: RUNNING
++ Monitoring Systems: HEALTHY
++ DevSecOps Security: VERIFIED
++ Automation Services: ENABLED
 ```
 
 </div>
 
 ---
 
-# 🧠 AUTOMATION PHILOSOPHY
+# ⚡ AUTOMATION PHILOSOPHY
 
 <div align="center">
 
@@ -252,7 +263,7 @@ while(system_running):
 
 ---
 
-# 🌐 CONNECT WITH ME
+# 🌐 CONNECT
 
 <div align="center">
 
@@ -282,22 +293,24 @@ while(system_running):
 
 ---
 
-# 🌌 TERMINAL
+# 🌌 TERMINAL ACCESS
 
 <div align="center">
 
 ```bash
-> initializing cloud infrastructure...
+$ ssh omkar@cloud-system
 
-> loading kubernetes clusters...
+Access granted...
 
-> securing CI/CD pipelines...
+Loading infrastructure...
 
-> enabling monitoring systems...
+Kubernetes clusters connected...
 
-> scaling applications...
+Monitoring dashboards online...
 
-SYSTEM STATUS: ONLINE ⚡
+Deployment pipelines active...
+
+Welcome to the future ⚡
 ```
 
 </div>
@@ -306,6 +319,6 @@ SYSTEM STATUS: ONLINE ⚡
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7C3AED,50:00E5FF,100:050816&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:7C3AED,100:00E5FF&section=footer"/>
 
 </div>
